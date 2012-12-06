@@ -5,6 +5,7 @@ InData <- function(datadir){
 	return(base.dat)
 	}
 
+x <- 2
 
 
 MakeDF <- function(hometeam=3,awayteam=3,base.dat){
