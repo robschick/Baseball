@@ -5,6 +5,7 @@ setwd(wkdir)
 datadir <- '/users/robs/Documents/personal/business/baseball/BIS_baseballdata/'
 source('/users/robs/Documents/code/rss10/baseball/BaseballFunctions.R')
 
+x <- y <- 1
 basedata <- InData(datadir)
 
 # Pull out just the red sox at home
